@@ -1,0 +1,3970 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2304,
+        "width": 4096
+    },
+    "objects": [
+        {
+            "id": 96784698,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.011Z",
+            "updatedAt": "2023-12-14T16:48:55.011Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        801,
+                        1227
+                    ],
+                    [
+                        1030,
+                        1362
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784697,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.011Z",
+            "updatedAt": "2023-12-14T16:48:55.011Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1337,
+                        1057
+                    ],
+                    [
+                        1537,
+                        1193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784696,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.011Z",
+            "updatedAt": "2023-12-14T16:48:55.011Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        1227
+                    ],
+                    [
+                        785,
+                        1365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784695,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.011Z",
+            "updatedAt": "2023-12-14T16:48:55.011Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        1184
+                    ],
+                    [
+                        494,
+                        1373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784694,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.011Z",
+            "updatedAt": "2023-12-14T16:48:55.011Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        807,
+                        1057
+                    ],
+                    [
+                        1032,
+                        1210
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784693,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.010Z",
+            "updatedAt": "2023-12-14T16:48:55.010Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        1055
+                    ],
+                    [
+                        771,
+                        1216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784692,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.010Z",
+            "updatedAt": "2023-12-14T16:48:55.010Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        1033
+                    ],
+                    [
+                        497,
+                        1174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784691,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.010Z",
+            "updatedAt": "2023-12-14T16:48:55.010Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2729,
+                        1052
+                    ],
+                    [
+                        2892,
+                        1325
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784690,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.010Z",
+            "updatedAt": "2023-12-14T16:48:55.010Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1053,
+                        1227
+                    ],
+                    [
+                        1305,
+                        1365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784689,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.009Z",
+            "updatedAt": "2023-12-14T16:48:55.009Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1060,
+                        1034
+                    ],
+                    [
+                        1304,
+                        1216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784688,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.009Z",
+            "updatedAt": "2023-12-14T16:48:55.009Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3481,
+                        682
+                    ],
+                    [
+                        3633,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784687,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.009Z",
+            "updatedAt": "2023-12-14T16:48:55.009Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1318,
+                        1205
+                    ],
+                    [
+                        1518,
+                        1362
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784686,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.009Z",
+            "updatedAt": "2023-12-14T16:48:55.009Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1309,
+                        1605
+                    ],
+                    [
+                        1655,
+                        1740
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784685,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.009Z",
+            "updatedAt": "2023-12-14T16:48:55.009Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        992,
+                        1530
+                    ],
+                    [
+                        1278,
+                        1751
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784684,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.009Z",
+            "updatedAt": "2023-12-14T16:48:55.009Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        658,
+                        1468
+                    ],
+                    [
+                        972,
+                        1596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784683,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.009Z",
+            "updatedAt": "2023-12-14T16:48:55.009Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        660,
+                        1616
+                    ],
+                    [
+                        968,
+                        1785
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784682,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.008Z",
+            "updatedAt": "2023-12-14T16:48:55.008Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        1624
+                    ],
+                    [
+                        628,
+                        1782
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784681,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.008Z",
+            "updatedAt": "2023-12-14T16:48:55.008Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        312,
+                        1484
+                    ],
+                    [
+                        652,
+                        1605
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784680,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.008Z",
+            "updatedAt": "2023-12-14T16:48:55.008Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2903,
+                        1081
+                    ],
+                    [
+                        3052,
+                        1329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784679,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.008Z",
+            "updatedAt": "2023-12-14T16:48:55.008Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1829,
+                        1224
+                    ],
+                    [
+                        2133,
+                        1345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784678,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.008Z",
+            "updatedAt": "2023-12-14T16:48:55.008Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2373,
+                        1214
+                    ],
+                    [
+                        2551,
+                        1351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784677,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.008Z",
+            "updatedAt": "2023-12-14T16:48:55.008Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2379,
+                        1071
+                    ],
+                    [
+                        2537,
+                        1199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784676,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.008Z",
+            "updatedAt": "2023-12-14T16:48:55.008Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2166,
+                        1055
+                    ],
+                    [
+                        2356,
+                        1180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784675,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.008Z",
+            "updatedAt": "2023-12-14T16:48:55.008Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1851,
+                        1050
+                    ],
+                    [
+                        2143,
+                        1207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784674,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.008Z",
+            "updatedAt": "2023-12-14T16:48:55.008Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1550,
+                        1048
+                    ],
+                    [
+                        1821,
+                        1213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784673,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.007Z",
+            "updatedAt": "2023-12-14T16:48:55.007Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1542,
+                        1224
+                    ],
+                    [
+                        1804,
+                        1356
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784672,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.006Z",
+            "updatedAt": "2023-12-14T16:48:55.006Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2144,
+                        1211
+                    ],
+                    [
+                        2341,
+                        1345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784671,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.006Z",
+            "updatedAt": "2023-12-14T16:48:55.006Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3072,
+                        1093
+                    ],
+                    [
+                        3210,
+                        1326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784670,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.006Z",
+            "updatedAt": "2023-12-14T16:48:55.006Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3959,
+                        1200
+                    ],
+                    [
+                        4095,
+                        1329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784669,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.006Z",
+            "updatedAt": "2023-12-14T16:48:55.006Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3428,
+                        1162
+                    ],
+                    [
+                        3605,
+                        1321
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784668,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.006Z",
+            "updatedAt": "2023-12-14T16:48:55.006Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3326,
+                        810
+                    ],
+                    [
+                        3441,
+                        985
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784667,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.006Z",
+            "updatedAt": "2023-12-14T16:48:55.006Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3147,
+                        835
+                    ],
+                    [
+                        3311,
+                        972
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784666,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.006Z",
+            "updatedAt": "2023-12-14T16:48:55.006Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3006,
+                        821
+                    ],
+                    [
+                        3131,
+                        970
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784665,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.006Z",
+            "updatedAt": "2023-12-14T16:48:55.006Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3175,
+                        671
+                    ],
+                    [
+                        3338,
+                        800
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784664,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.005Z",
+            "updatedAt": "2023-12-14T16:48:55.005Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3022,
+                        670
+                    ],
+                    [
+                        3167,
+                        804
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784663,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.005Z",
+            "updatedAt": "2023-12-14T16:48:55.005Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2866,
+                        655
+                    ],
+                    [
+                        3006,
+                        798
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784662,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.005Z",
+            "updatedAt": "2023-12-14T16:48:55.005Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1467,
+                        1863
+                    ],
+                    [
+                        1711,
+                        2094
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784661,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.005Z",
+            "updatedAt": "2023-12-14T16:48:55.005Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2821,
+                        816
+                    ],
+                    [
+                        2999,
+                        967
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784660,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.005Z",
+            "updatedAt": "2023-12-14T16:48:55.005Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2135,
+                        803
+                    ],
+                    [
+                        2374,
+                        956
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784659,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.005Z",
+            "updatedAt": "2023-12-14T16:48:55.005Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2403,
+                        815
+                    ],
+                    [
+                        2570,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784658,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.005Z",
+            "updatedAt": "2023-12-14T16:48:55.005Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2423,
+                        651
+                    ],
+                    [
+                        2601,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784657,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.005Z",
+            "updatedAt": "2023-12-14T16:48:55.005Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2141,
+                        628
+                    ],
+                    [
+                        2405,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784656,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3227,
+                        1108
+                    ],
+                    [
+                        3424,
+                        1340
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784655,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1908,
+                        613
+                    ],
+                    [
+                        2124,
+                        778
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784654,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1323,
+                        1465
+                    ],
+                    [
+                        1663,
+                        1586
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784653,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3459,
+                        832
+                    ],
+                    [
+                        3596,
+                        978
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784652,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3625,
+                        838
+                    ],
+                    [
+                        3829,
+                        972
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784651,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3641,
+                        686
+                    ],
+                    [
+                        3798,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784650,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3843,
+                        830
+                    ],
+                    [
+                        4038,
+                        970
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784649,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1649,
+                        799
+                    ],
+                    [
+                        1890,
+                        937
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784648,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3962,
+                        1080
+                    ],
+                    [
+                        4095,
+                        1185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784647,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.004Z",
+            "updatedAt": "2023-12-14T16:48:55.004Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3352,
+                        682
+                    ],
+                    [
+                        3464,
+                        803
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784646,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.003Z",
+            "updatedAt": "2023-12-14T16:48:55.003Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3788,
+                        1202
+                    ],
+                    [
+                        3940,
+                        1326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784645,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.003Z",
+            "updatedAt": "2023-12-14T16:48:55.003Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3633,
+                        1079
+                    ],
+                    [
+                        3729,
+                        1216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784644,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.003Z",
+            "updatedAt": "2023-12-14T16:48:55.003Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3608,
+                        1224
+                    ],
+                    [
+                        3747,
+                        1332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784643,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.003Z",
+            "updatedAt": "2023-12-14T16:48:55.003Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1204,
+                        1885
+                    ],
+                    [
+                        1453,
+                        2122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784642,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.002Z",
+            "updatedAt": "2023-12-14T16:48:55.002Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1901,
+                        794
+                    ],
+                    [
+                        2131,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784641,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.002Z",
+            "updatedAt": "2023-12-14T16:48:55.002Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1707,
+                        1461
+                    ],
+                    [
+                        1996,
+                        1569
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784640,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.002Z",
+            "updatedAt": "2023-12-14T16:48:55.002Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3611,
+                        1757
+                    ],
+                    [
+                        3754,
+                        1845
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784639,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.001Z",
+            "updatedAt": "2023-12-14T16:48:55.001Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1959,
+                        1580
+                    ],
+                    [
+                        2216,
+                        1732
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784638,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.001Z",
+            "updatedAt": "2023-12-14T16:48:55.001Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1727,
+                        1941
+                    ],
+                    [
+                        1990,
+                        2080
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784637,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.000Z",
+            "updatedAt": "2023-12-14T16:48:55.000Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1738,
+                        1828
+                    ],
+                    [
+                        2003,
+                        1909
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784636,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:55.000Z",
+            "updatedAt": "2023-12-14T16:48:55.000Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2006,
+                        1824
+                    ],
+                    [
+                        2260,
+                        1923
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784635,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.999Z",
+            "updatedAt": "2023-12-14T16:48:54.999Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2011,
+                        1941
+                    ],
+                    [
+                        2259,
+                        2066
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784634,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.999Z",
+            "updatedAt": "2023-12-14T16:48:54.999Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2271,
+                        1935
+                    ],
+                    [
+                        2501,
+                        2053
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784633,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.999Z",
+            "updatedAt": "2023-12-14T16:48:54.999Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2658,
+                        1809
+                    ],
+                    [
+                        2807,
+                        2016
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784632,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.999Z",
+            "updatedAt": "2023-12-14T16:48:54.999Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2818,
+                        1812
+                    ],
+                    [
+                        2955,
+                        2008
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784631,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.999Z",
+            "updatedAt": "2023-12-14T16:48:54.999Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2970,
+                        1836
+                    ],
+                    [
+                        3085,
+                        2003
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784630,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.998Z",
+            "updatedAt": "2023-12-14T16:48:54.998Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2276,
+                        1815
+                    ],
+                    [
+                        2495,
+                        1928
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784629,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.998Z",
+            "updatedAt": "2023-12-14T16:48:54.998Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2329,
+                        387
+                    ],
+                    [
+                        2562,
+                        533
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784628,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.997Z",
+            "updatedAt": "2023-12-14T16:48:54.997Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2075,
+                        358
+                    ],
+                    [
+                        2324,
+                        525
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784627,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.997Z",
+            "updatedAt": "2023-12-14T16:48:54.997Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1851,
+                        348
+                    ],
+                    [
+                        2060,
+                        497
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784626,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.996Z",
+            "updatedAt": "2023-12-14T16:48:54.996Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        2060
+                    ],
+                    [
+                        582,
+                        2169
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784625,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.996Z",
+            "updatedAt": "2023-12-14T16:48:54.996Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2116,
+                        148
+                    ],
+                    [
+                        2281,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784624,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.996Z",
+            "updatedAt": "2023-12-14T16:48:54.996Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1597,
+                        317
+                    ],
+                    [
+                        1830,
+                        497
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784623,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.996Z",
+            "updatedAt": "2023-12-14T16:48:54.996Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1887,
+                        139
+                    ],
+                    [
+                        2089,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784622,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.996Z",
+            "updatedAt": "2023-12-14T16:48:54.996Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1627,
+                        99
+                    ],
+                    [
+                        1870,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784621,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.996Z",
+            "updatedAt": "2023-12-14T16:48:54.996Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1356,
+                        60
+                    ],
+                    [
+                        1604,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784620,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.996Z",
+            "updatedAt": "2023-12-14T16:48:54.996Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1055,
+                        37
+                    ],
+                    [
+                        1332,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784619,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.996Z",
+            "updatedAt": "2023-12-14T16:48:54.996Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        721,
+                        220
+                    ],
+                    [
+                        1030,
+                        445
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784618,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.995Z",
+            "updatedAt": "2023-12-14T16:48:54.995Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        209
+                    ],
+                    [
+                        711,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784617,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.994Z",
+            "updatedAt": "2023-12-14T16:48:54.994Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        184
+                    ],
+                    [
+                        430,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784616,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.994Z",
+            "updatedAt": "2023-12-14T16:48:54.994Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        754,
+                        5
+                    ],
+                    [
+                        1037,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784615,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.994Z",
+            "updatedAt": "2023-12-14T16:48:54.994Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        0
+                    ],
+                    [
+                        733,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784614,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.994Z",
+            "updatedAt": "2023-12-14T16:48:54.994Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        0
+                    ],
+                    [
+                        418,
+                        169
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784613,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.994Z",
+            "updatedAt": "2023-12-14T16:48:54.994Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1663,
+                        607
+                    ],
+                    [
+                        1900,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784612,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.994Z",
+            "updatedAt": "2023-12-14T16:48:54.994Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1318,
+                        282
+                    ],
+                    [
+                        1584,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784611,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.993Z",
+            "updatedAt": "2023-12-14T16:48:54.993Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        1896
+                    ],
+                    [
+                        588,
+                        2050
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784610,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.993Z",
+            "updatedAt": "2023-12-14T16:48:54.993Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        663,
+                        1885
+                    ],
+                    [
+                        901,
+                        2014
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784609,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.993Z",
+            "updatedAt": "2023-12-14T16:48:54.993Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        611,
+                        2022
+                    ],
+                    [
+                        867,
+                        2166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784608,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.993Z",
+            "updatedAt": "2023-12-14T16:48:54.993Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2011,
+                        1466
+                    ],
+                    [
+                        2261,
+                        1572
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784607,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.993Z",
+            "updatedAt": "2023-12-14T16:48:54.993Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2279,
+                        1457
+                    ],
+                    [
+                        2491,
+                        1569
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784606,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.993Z",
+            "updatedAt": "2023-12-14T16:48:54.993Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2221,
+                        1585
+                    ],
+                    [
+                        2486,
+                        1716
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784605,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.993Z",
+            "updatedAt": "2023-12-14T16:48:54.993Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        937,
+                        1958
+                    ],
+                    [
+                        1189,
+                        2147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784604,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.992Z",
+            "updatedAt": "2023-12-14T16:48:54.992Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2671,
+                        1463
+                    ],
+                    [
+                        2821,
+                        1688
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784603,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.992Z",
+            "updatedAt": "2023-12-14T16:48:54.992Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2837,
+                        1449
+                    ],
+                    [
+                        2968,
+                        1680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784602,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.992Z",
+            "updatedAt": "2023-12-14T16:48:54.992Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2975,
+                        1514
+                    ],
+                    [
+                        3147,
+                        1685
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784601,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.992Z",
+            "updatedAt": "2023-12-14T16:48:54.992Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2985,
+                        1425
+                    ],
+                    [
+                        3133,
+                        1497
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784600,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.992Z",
+            "updatedAt": "2023-12-14T16:48:54.992Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3147,
+                        1433
+                    ],
+                    [
+                        3288,
+                        1508
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784599,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.992Z",
+            "updatedAt": "2023-12-14T16:48:54.992Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3158,
+                        1521
+                    ],
+                    [
+                        3274,
+                        1680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784598,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.992Z",
+            "updatedAt": "2023-12-14T16:48:54.992Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3281,
+                        1516
+                    ],
+                    [
+                        3443,
+                        1678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784597,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.992Z",
+            "updatedAt": "2023-12-14T16:48:54.992Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3307,
+                        1430
+                    ],
+                    [
+                        3445,
+                        1500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784596,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.992Z",
+            "updatedAt": "2023-12-14T16:48:54.992Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3464,
+                        1423
+                    ],
+                    [
+                        3758,
+                        1671
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784595,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.991Z",
+            "updatedAt": "2023-12-14T16:48:54.991Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3779,
+                        1425
+                    ],
+                    [
+                        3964,
+                        1635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784594,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.991Z",
+            "updatedAt": "2023-12-14T16:48:54.991Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3978,
+                        1530
+                    ],
+                    [
+                        4095,
+                        1638
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784593,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.991Z",
+            "updatedAt": "2023-12-14T16:48:54.991Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3975,
+                        1426
+                    ],
+                    [
+                        4095,
+                        1514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784592,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.991Z",
+            "updatedAt": "2023-12-14T16:48:54.991Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3975,
+                        1747
+                    ],
+                    [
+                        4095,
+                        1812
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784591,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.991Z",
+            "updatedAt": "2023-12-14T16:48:54.991Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3975,
+                        1823
+                    ],
+                    [
+                        4095,
+                        1939
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784590,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.991Z",
+            "updatedAt": "2023-12-14T16:48:54.991Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3796,
+                        1834
+                    ],
+                    [
+                        3952,
+                        1942
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784589,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.990Z",
+            "updatedAt": "2023-12-14T16:48:54.990Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3803,
+                        1740
+                    ],
+                    [
+                        3953,
+                        1821
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784588,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.990Z",
+            "updatedAt": "2023-12-14T16:48:54.990Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3586,
+                        1853
+                    ],
+                    [
+                        3743,
+                        1956
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784587,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.990Z",
+            "updatedAt": "2023-12-14T16:48:54.990Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3428,
+                        1762
+                    ],
+                    [
+                        3580,
+                        1854
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784586,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.990Z",
+            "updatedAt": "2023-12-14T16:48:54.990Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3390,
+                        1863
+                    ],
+                    [
+                        3563,
+                        1975
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784585,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.990Z",
+            "updatedAt": "2023-12-14T16:48:54.990Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3249,
+                        1775
+                    ],
+                    [
+                        3417,
+                        1845
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784584,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.990Z",
+            "updatedAt": "2023-12-14T16:48:54.990Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3235,
+                        1856
+                    ],
+                    [
+                        3375,
+                        1984
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784583,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.990Z",
+            "updatedAt": "2023-12-14T16:48:54.990Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3100,
+                        1839
+                    ],
+                    [
+                        3223,
+                        1983
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784582,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.990Z",
+            "updatedAt": "2023-12-14T16:48:54.990Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2519,
+                        1807
+                    ],
+                    [
+                        2656,
+                        2025
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784581,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.990Z",
+            "updatedAt": "2023-12-14T16:48:54.990Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1666,
+                        1586
+                    ],
+                    [
+                        1955,
+                        1735
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784580,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.989Z",
+            "updatedAt": "2023-12-14T16:48:54.989Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1363,
+                        582
+                    ],
+                    [
+                        1635,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784579,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.989Z",
+            "updatedAt": "2023-12-14T16:48:54.989Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2506,
+                        1459
+                    ],
+                    [
+                        2660,
+                        1699
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784578,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.989Z",
+            "updatedAt": "2023-12-14T16:48:54.989Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1072,
+                        764
+                    ],
+                    [
+                        1334,
+                        925
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784577,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.989Z",
+            "updatedAt": "2023-12-14T16:48:54.989Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3622,
+                        431
+                    ],
+                    [
+                        3765,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784576,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.989Z",
+            "updatedAt": "2023-12-14T16:48:54.989Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3470,
+                        430
+                    ],
+                    [
+                        3609,
+                        586
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784575,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.989Z",
+            "updatedAt": "2023-12-14T16:48:54.989Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3652,
+                        280
+                    ],
+                    [
+                        3796,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784574,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.989Z",
+            "updatedAt": "2023-12-14T16:48:54.989Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3514,
+                        263
+                    ],
+                    [
+                        3632,
+                        405
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784573,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.988Z",
+            "updatedAt": "2023-12-14T16:48:54.988Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3336,
+                        238
+                    ],
+                    [
+                        3486,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784572,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.988Z",
+            "updatedAt": "2023-12-14T16:48:54.988Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3304,
+                        425
+                    ],
+                    [
+                        3462,
+                        580
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784571,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.988Z",
+            "updatedAt": "2023-12-14T16:48:54.988Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3127,
+                        398
+                    ],
+                    [
+                        3305,
+                        580
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784570,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.988Z",
+            "updatedAt": "2023-12-14T16:48:54.988Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3166,
+                        227
+                    ],
+                    [
+                        3326,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784569,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.988Z",
+            "updatedAt": "2023-12-14T16:48:54.988Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2569,
+                        1092
+                    ],
+                    [
+                        2630,
+                        1287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784568,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.988Z",
+            "updatedAt": "2023-12-14T16:48:54.988Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2638,
+                        1152
+                    ],
+                    [
+                        2701,
+                        1359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784567,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.988Z",
+            "updatedAt": "2023-12-14T16:48:54.988Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2702,
+                        876
+                    ],
+                    [
+                        2752,
+                        1116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784566,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.988Z",
+            "updatedAt": "2023-12-14T16:48:54.988Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2636,
+                        850
+                    ],
+                    [
+                        2689,
+                        1018
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784565,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.988Z",
+            "updatedAt": "2023-12-14T16:48:54.988Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2647,
+                        627
+                    ],
+                    [
+                        2712,
+                        823
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784564,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.987Z",
+            "updatedAt": "2023-12-14T16:48:54.987Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2749,
+                        716
+                    ],
+                    [
+                        2805,
+                        934
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784563,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.987Z",
+            "updatedAt": "2023-12-14T16:48:54.987Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2564,
+                        364
+                    ],
+                    [
+                        2634,
+                        530
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784562,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.987Z",
+            "updatedAt": "2023-12-14T16:48:54.987Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2575,
+                        202
+                    ],
+                    [
+                        2641,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784561,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.987Z",
+            "updatedAt": "2023-12-14T16:48:54.987Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2660,
+                        452
+                    ],
+                    [
+                        2743,
+                        602
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784560,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.987Z",
+            "updatedAt": "2023-12-14T16:48:54.987Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2790,
+                        371
+                    ],
+                    [
+                        2839,
+                        660
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784559,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.987Z",
+            "updatedAt": "2023-12-14T16:48:54.987Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2840,
+                        188
+                    ],
+                    [
+                        2885,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784558,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.986Z",
+            "updatedAt": "2023-12-14T16:48:54.986Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2691,
+                        251
+                    ],
+                    [
+                        2765,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784557,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.986Z",
+            "updatedAt": "2023-12-14T16:48:54.986Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2890,
+                        12
+                    ],
+                    [
+                        2939,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784556,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.986Z",
+            "updatedAt": "2023-12-14T16:48:54.986Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2724,
+                        21
+                    ],
+                    [
+                        2802,
+                        210
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784555,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.986Z",
+            "updatedAt": "2023-12-14T16:48:54.986Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2898,
+                        202
+                    ],
+                    [
+                        2973,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784554,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.986Z",
+            "updatedAt": "2023-12-14T16:48:54.986Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2884,
+                        389
+                    ],
+                    [
+                        2955,
+                        553
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784553,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.986Z",
+            "updatedAt": "2023-12-14T16:48:54.986Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2961,
+                        378
+                    ],
+                    [
+                        3096,
+                        553
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784552,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.986Z",
+            "updatedAt": "2023-12-14T16:48:54.986Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2975,
+                        222
+                    ],
+                    [
+                        3117,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784551,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.986Z",
+            "updatedAt": "2023-12-14T16:48:54.986Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2301,
+                        171
+                    ],
+                    [
+                        2565,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784550,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.986Z",
+            "updatedAt": "2023-12-14T16:48:54.986Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3807,
+                        454
+                    ],
+                    [
+                        4022,
+                        594
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784549,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.985Z",
+            "updatedAt": "2023-12-14T16:48:54.985Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        1365,
+                        783
+                    ],
+                    [
+                        1629,
+                        931
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784548,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.985Z",
+            "updatedAt": "2023-12-14T16:48:54.985Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3207,
+                        0
+                    ],
+                    [
+                        3389,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784547,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.985Z",
+            "updatedAt": "2023-12-14T16:48:54.985Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        2945,
+                        1
+                    ],
+                    [
+                        3041,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784546,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.985Z",
+            "updatedAt": "2023-12-14T16:48:54.985Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        779,
+                        563
+                    ],
+                    [
+                        1012,
+                        721
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784545,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.985Z",
+            "updatedAt": "2023-12-14T16:48:54.985Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3042,
+                        10
+                    ],
+                    [
+                        3209,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784544,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.985Z",
+            "updatedAt": "2023-12-14T16:48:54.985Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3404,
+                        1
+                    ],
+                    [
+                        3564,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784543,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.984Z",
+            "updatedAt": "2023-12-14T16:48:54.984Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3569,
+                        4
+                    ],
+                    [
+                        3712,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784542,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.984Z",
+            "updatedAt": "2023-12-14T16:48:54.984Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3727,
+                        0
+                    ],
+                    [
+                        3877,
+                        169
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784541,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.984Z",
+            "updatedAt": "2023-12-14T16:48:54.984Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3895,
+                        0
+                    ],
+                    [
+                        3989,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784540,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.984Z",
+            "updatedAt": "2023-12-14T16:48:54.984Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        4000,
+                        16
+                    ],
+                    [
+                        4095,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784539,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.984Z",
+            "updatedAt": "2023-12-14T16:48:54.984Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        3854,
+                        294
+                    ],
+                    [
+                        4031,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784538,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.984Z",
+            "updatedAt": "2023-12-14T16:48:54.984Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        738
+                    ],
+                    [
+                        485,
+                        905
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784537,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.984Z",
+            "updatedAt": "2023-12-14T16:48:54.984Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        743
+                    ],
+                    [
+                        772,
+                        909
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784536,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.984Z",
+            "updatedAt": "2023-12-14T16:48:54.984Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        793,
+                        732
+                    ],
+                    [
+                        1055,
+                        925
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784535,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.984Z",
+            "updatedAt": "2023-12-14T16:48:54.984Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        550
+                    ],
+                    [
+                        774,
+                        732
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 96784534,
+            "classId": 6509534,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-14T16:48:54.983Z",
+            "updatedAt": "2023-12-14T16:48:54.983Z",
+            "tags": [],
+            "classTitle": "retail item",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        528
+                    ],
+                    [
+                        441,
+                        696
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
