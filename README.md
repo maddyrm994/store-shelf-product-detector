@@ -8,3 +8,7 @@ Detect products on retail store shelves in images using advanced computer vision
 - **Visual Results:** Bounding boxes are drawn on products, colored by confidence (green, yellow, red).
 - **Streamlit UI:** Simple and interactive web interface for image upload, visualization, and results.
 - **Dataset Reference:** Based on SKU110K dataset ([Source](https://datasetninja.com/sku110k)).
+
+## Trial
+
+Visit: https://store-shelf-object-detector.streamlit.app/
