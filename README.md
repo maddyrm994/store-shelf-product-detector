@@ -1,6 +1,6 @@
 # Store Shelf Product Detector
 
-Detect products on retail store shelves in images using advanced computer vision models. This project leverages a custom-trained model (improvised version of YOLO) for object detection and ResNet/CLIP/DinoV2 for image similarity and retrieval, providing an interactive Streamlit web interface for users.
+Detect products on retail store shelves in images using advanced computer vision models. This project leverages a custom-trained model (improved version of YOLO) for object detection, USEARCH for vector database, and ResNet/CLIP/DinoV2 for image similarity and retrieval, providing an interactive Streamlit web interface for users.
 
 ---
 
