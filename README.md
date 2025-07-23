@@ -1,0 +1,1 @@
+# store-shelf-product-detector
